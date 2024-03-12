@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>drive.png</file>
+    <file>car (2).png</file>
+    <file>car (1).png</file>
+    <file>car-wash.png</file>
+    <file>car.png</file>
+    <file>sedan-car-front.png</file>
+    <file>checkmark.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>unchecked.png</file>
+    <file>check.png</file>
+  </qresource>
+</RCC>
